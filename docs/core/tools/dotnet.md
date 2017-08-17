@@ -22,6 +22,7 @@ ms.technology: dotnet-cli
 `dotnet [command] [arguments] [--additional-deps] [--additionalprobingpath] [-d|--diagnostics] [--fx-version] [-h|--help] [--info] [--roll-forward-on-no-candidate-fx] [-v|--verbose] [--version]`
 # [.NET Core 1.x](#tab/netcore1x)
 `dotnet [command] [arguments] [--additionalprobingpath] [-d|--diagnostics] [--fx-version] [-h|--help] [--info] [-v|--verbose] [--version]`
+
 ---
 
 ## Description
@@ -108,7 +109,7 @@ Prints out the version of the .NET Core SDK in use.
 
 ### General
 
-# [.NET Core 2.x](#tab/netcore1x)
+# [.NET Core 2.x](#tab/netcore2x)
 
 | Command                             | Function                                                            |
 | ----------------------------------- | ------------------------------------------------------------------- |
